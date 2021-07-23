@@ -1,5 +1,7 @@
-<h1> Hello, I'm Srikar </h1>
-<h3> 
+<center>
+  <h1> Hello, I'm Srikar </h1>
+</center>
+<h3> Aerospace Engineer from IIT Madras </h3>
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
