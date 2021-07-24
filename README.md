@@ -2,6 +2,9 @@
 <h3 align = "center"> Aerospace Engineer from IIT Madras </h3>
 <h4 align = "center"> Just another home sapiens living on this rock 🌍 floating in the space </h4>
 <hr>
+
+[![Srikar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srikar)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
