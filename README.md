@@ -4,20 +4,20 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sriker24&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 <hr>
 
+<!--<div align=right>
+    <a href="https://github.com/Sriker24">
+      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriker24&langs_count=20&theme=vue" />
+    </a>
+</div>
 <a href="https://github.com/Sriker24">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Srikar24&show_icons=true&repo=github-readme-stats" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srikar24&layout=compact&repo=github-readme-stats" />
+    <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/wakatime?username=Srikar24" />
 </a>
-<br />
-<br />
 <a href="https://github.com/Sriker24">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Srikar24&repo=github-readme-stats" alt="Srikar's wakatime" />
-</a>
+      <img align="centre" width=396 src="https://github-readme-stats.vercel.app/api?username=Sriker24&show_icons=true&theme=vue"/>
+ </a>
 
-##
-
-
-<h3 align="left">Languages and Tools:</h3>
+<hr>-->
+<h3 align="left">Useful Languages and Tools:</h3>
 <p align="left">
     <a href="https://developer.android.com/studio" target="_blank" title ="android studio"> <img
             src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"
@@ -100,6 +100,7 @@
 
 </p> 
 
+##
 
 
 
