@@ -3,7 +3,21 @@
 <h4 align = "center"> Just another home sapiens living on this rock 🌍 floating in the space </h4>
 <hr>
 
-[![Srikar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srikar)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Srikar24)](https://github.com/anuraghazra/github-readme-stats)-->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Srikar24&show_icons=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
+&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srikar24&layout=compact&repo=github-readme-stats"
+</a>
+
+
+
+
+
+
+
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
