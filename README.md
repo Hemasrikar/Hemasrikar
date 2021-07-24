@@ -3,14 +3,15 @@
 <h4 align = "center"> Just another home sapiens living on this rock 🌍 floating in the space </h4>
 <hr>
 
-
-<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Srikar24)](https://github.com/anuraghazra/github-readme-stats)-->
-
-<a href="https://github.com/Sriker24/Customization">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Srikar24&show_icons=true&repo=Customization" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srikar24&layout=compact&repo=Customization"
+<a href="https://github.com/Sriker24/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Srikar24&show_icons=true&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srikar24&layout=compact&repo=github-readme-stats" />
 </a>
-
+<br />
+<br />
+<a href="https://github.com/Sriker24/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Srikar24&repo=github-readme-stats" />
+</a>
 
 
 
