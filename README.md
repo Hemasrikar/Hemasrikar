@@ -14,9 +14,9 @@
 </a>
 <a href="https://github.com/Sriker24">
       <img align="center" width=396 src="https://github-readme-stats.vercel.app/api?username=Sriker24&show_icons=true&theme=vue"/>
- </a>-->
+ </a>
 
-<hr>
+<hr>-->
 <h3 align="left">Useful Languages and Tools:</h3>
 <p align="left">
     <a href="https://developer.android.com/studio" target="_blank" title ="android studio"> <img
