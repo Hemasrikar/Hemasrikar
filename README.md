@@ -13,7 +13,7 @@
     <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/wakatime?username=Srikar24" />
 </a>
 <a href="https://github.com/Sriker24">
-      <img align="centre" width=396 src="https://github-readme-stats.vercel.app/api?username=Sriker24&show_icons=true&theme=vue"/>
+      <img align="center" width=396 src="https://github-readme-stats.vercel.app/api?username=Sriker24&show_icons=true&theme=vue"/>
  </a>
 
 <hr>
