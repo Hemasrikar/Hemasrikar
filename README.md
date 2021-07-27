@@ -111,6 +111,19 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+    <a href="https://twitter.com/Srikar0369" target="blank"><img align="center"
+            src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png" alt="Twitter" height="40"
+            width="40" /></a>
+    <a href="https://www.linkedin.com/in/hema-srikar-ankem-b7642a214/" target="blank"><img align="center"
+            src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
+            width="40" /></a>
+    <a href="https://www.instagram.com/srikar.24/" target="blank"><img align="center"
+            src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40"
+            width="40" /></a>
+</p>
 <!---
 Sriker24/Sriker24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
