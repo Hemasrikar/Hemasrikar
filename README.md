@@ -115,8 +115,8 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://twitter.com/Srikar0369" target="blank"><img align="center"
-            src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png" alt="Twitter" height="40"
-            width="40" /></a>
+            src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png" alt="Twitter" height="52"
+            width="52" /></a>
     <a href="https://www.linkedin.com/in/hema-srikar-ankem-b7642a214/" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
             width="40" /></a>
