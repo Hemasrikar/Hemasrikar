@@ -6,11 +6,11 @@
 
 <div align=right>
     <a href="https://github.com/Sriker24">
-      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriker24&langs_count=20&theme=vue" />
+      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriker24&langs_count=20&theme=vue&count_private=true" />
     </a>
 </div>
 <a href="https://github.com/Sriker24">
-    <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/wakatime?username=Srikar24" />
+    <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/wakatime?username=Srikar24&langs_count=10" />
 </a>
 <a href="https://github.com/Sriker24">
       <img align="center" width=396 src="https://github-readme-stats.vercel.app/api?username=Sriker24&show_icons=true&theme=vue"/>
