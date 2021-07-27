@@ -1,3 +1,4 @@
+<!--<img src="https://i.imgur.com/H9cYi4c.jpg">-->
 <h1 align = "center"> Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Srikar </h1>
 <h3 align = "center"> Aerospace Engineer from IIT Madras </h3>
 <h4 align = "center"> Just another home sapiens living on this rock 🌍 floating in the space </h4>
@@ -124,6 +125,7 @@
             src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40"
             width="40" /></a>
 </p>
+<h6 align="center"> I usually don't use Social media 😅,but feel free to cotact me! </h6>
 <!---
 Sriker24/Sriker24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
