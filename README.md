@@ -13,7 +13,7 @@
     
 
 
-<h3 align="left">Useful Languages and Tools:</h3>
+<h2 align='left'><i>Languages and Tools:</i></h2>
 <table width="100">
 <tr>
     <td width="80">
@@ -148,20 +148,27 @@
                 alt="XML" width="60" height="50" /> </a>
     </td>
 </tr>
-
 </table>
+
+
+<h2 align='center'><i>Github Stats & Languages Used</i></h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Sriker24&show_icons=true&theme=vue-dark&hide_border=true" height="205">
+</p>
+
+
 <p align='center'>
  
 <table width="100" align='center'>
 <tr>
     <td align='center' width="60">
-        <a href="https://twitter.com/AshutoshD07"><img src="https://image.flaticon.com/icons/svg/2111/2111703.svg" width="60"></a>
+        <a href="https://twitter.com/Srikar0369"><img src="https://image.flaticon.com/icons/svg/2111/2111703.svg" width="60"></a>
     </td>
     <td align='center' width="60">
-        <a href="https://www.instagram.com/07_ashutosh_dwivedi/"><img src="https://image.flaticon.com/icons/svg/2111/2111421.svg"></a>
+        <a href="https://www.instagram.com/srikar.24/"><img src="https://image.flaticon.com/icons/svg/2111/2111421.svg"></a>
     </td>
     <td align='center' width="60">
-        <a href="https://www.linkedin.com/in/ashutosh-dwivedi-b3025b196"><img src="https://image.flaticon.com/icons/svg/2111/2111465.svg" width="60"></a>
+        <a href="https://www.linkedin.com/in/hema-srikar-ankem-b7642a214/"><img src="https://image.flaticon.com/icons/svg/2111/2111465.svg" width="60"></a>
     </td>
 </tr>
 </table>
