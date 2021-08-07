@@ -6,8 +6,8 @@
 <hr>
 
 <p>
-    <img align="left" width=450 src="https://github-readme-stats.vercel.app/api/wakatime?username=Srikar24&layout=compact&langs_count=20" alt="Srikar's wakatime" />
-    <img align="right" width=450 src="https://github-readme-stats.vercel.app/api?username=Sriker24&theme=vue-dark&include_all_commits=true"/>
+    <img align="left" width=400 src="https://github-readme-stats.vercel.app/api/wakatime?username=Srikar24&layout=compact&langs_count=20" alt="Srikar's wakatime" />
+    <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=Sriker24&theme=vue-dark&include_all_commits=true"/>
  </p>
 <br />
 <br />
