@@ -15,8 +15,11 @@
  <img align="left" width=420 src="https://github-readme-stats.vercel.app/api?username=Sriker24&show_icons=true&theme=vue-dark&hide_border=true" height="205">
  <img align="right" width=420 src="https://github-readme-stats.vercel.app/api/wakatime?username=Srikar&theme=vue-dark&langs_count=13" alt="Srikar's wakatime" />
 </p>
+</br>
+<div align=center>
+ <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Sriker24&theme=onedark&column=8" alt="Srikar's Trophies" />
+</div>
 
-<p align="center">
 <h2 align='left'><i>Languages and Tools:</i></h2>
 <table width="100">
 <tr>
@@ -158,10 +161,7 @@
 
 
 
-</br>
-<div align=center>
- <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Sriker24&theme=onedark&column=8" alt="Srikar's Trophies" />
-</div>
+
 
 
 <h3 align="center">Connect with me:</h3>
