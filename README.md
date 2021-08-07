@@ -150,12 +150,18 @@
 </tr>
 </table>
 
-
+</br>
 <h2 align='center'><i>Github Stats & Languages Used</i></h2>
 <p align="left">
  <img src="https://github-readme-stats.vercel.app/api?username=Sriker24&show_icons=true&theme=vue-dark&hide_border=true" height="205">
  <img align="right" width=396 src="https://github-readme-stats.vercel.app/api/wakatime?username=Srikar24&theme=vue-dark&langs_count=13" alt="Srikar's wakatime" />
 </p>
+
+</br>
+<div align=center>
+ <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Sriker24&theme=onedark&column=8" alt="Srikar's Trophies" />
+</div>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align='center'>
