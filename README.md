@@ -152,27 +152,16 @@
 
 
 <h2 align='center'><i>Github Stats & Languages Used</i></h2>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sriker24&show_icons=true&theme=vue-dark&hide_border=true" height="205">
+<p align="left">
+ <img src="https://github-readme-stats.vercel.app/api?username=Sriker24&show_icons=true&theme=vue-dark&hide_border=true" height="205">
+ <img align="right" width=396 src="https://github-readme-stats.vercel.app/api/wakatime?username=Srikar24&theme=vue-dark&langs_count=13" alt="Srikar's wakatime" />
 </p>
 
-
+<h3 align="center">Connect with me:</h3>
 <p align='center'>
- 
-<table width="100" align='center'>
-<tr>
-    <td align='center' width="60">
-        <a href="https://twitter.com/Srikar0369"><img src="https://image.flaticon.com/icons/svg/2111/2111703.svg" width="60"></a>
-    </td>
-    <td align='center' width="60">
-        <a href="https://www.instagram.com/srikar.24/"><img src="https://image.flaticon.com/icons/svg/2111/2111421.svg"></a>
-    </td>
-    <td align='center' width="60">
-        <a href="https://www.linkedin.com/in/hema-srikar-ankem-b7642a214/"><img src="https://image.flaticon.com/icons/svg/2111/2111465.svg" width="60"></a>
-    </td>
-</tr>
-</table>
-
+ <a href="https://twitter.com/Srikar0369"><img src="https://image.flaticon.com/icons/svg/2111/2111703.svg" width="40"></a>
+ <a href="https://www.instagram.com/srikar.24/"><img src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" width="40"></a>
+ <a href="https://www.linkedin.com/in/hema-srikar-ankem-b7642a214/"><img src="https://image.flaticon.com/icons/svg/2111/2111465.svg" width="40"></a>
 </p>
 <!---
 Sriker24/Sriker24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
