@@ -152,8 +152,8 @@
 
 </br>
 <h2 align='center'><i>Github Stats & Languages Used</i></h2>
-<img align="left" width=396 src="https://github-readme-stats.vercel.app/api?username=Sriker24&show_icons=true&theme=vue-dark&hide_border=true" height="205">
-<img align="right" width=396 src="https://github-readme-stats.vercel.app/api/wakatime?username=Srikar&theme=vue-dark&langs_count=13" alt="Srikar's wakatime" />
+<img align="left" width=420 src="https://github-readme-stats.vercel.app/api?username=Sriker24&show_icons=true&theme=vue-dark&hide_border=true" height="205">
+<img align="right" width=420 src="https://github-readme-stats.vercel.app/api/wakatime?username=Srikar&theme=vue-dark&langs_count=13" alt="Srikar's wakatime" />
 
 
 </br>
