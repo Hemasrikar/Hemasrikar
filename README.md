@@ -5,8 +5,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sriker24&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 <hr>
 
-<img align="left" width=450 src="https://github-readme-stats.vercel.app/api/wakatime?username=Srikar24&layout=compact&langs_count=20" alt="Srikar's wakatime" />
-<img align="right" width=450 src="https://github-readme-stats.vercel.app/api?username=Sriker24&theme=vue-dark&include_all_commits=true"/>
+<img align="left" width=420 src="https://github-readme-stats.vercel.app/api/wakatime?username=Srikar24&layout=compact&langs_count=20" alt="Srikar's wakatime" />
+<img align="right" width=430 src="https://github-readme-stats.vercel.app/api?username=Sriker24&theme=vue-dark&include_all_commits=true"/>
 <br />
 <br />
 <br />
