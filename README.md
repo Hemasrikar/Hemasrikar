@@ -2,7 +2,7 @@
 <h1 align = "center"> Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Srikar </h1>
 <h3 align = "center"> Aerospace Engineer from IIT Madras </h3>
 <h4 align = "center"> Just another home sapiens living on this rock 🌍 floating in the space </h4>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sriker24&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sriker24&label=Profile%20views&color=129e00&style=plastic" /> </p>
 <hr>
 
 <img align="left" width=400 src="https://github-readme-stats.vercel.app/api/wakatime?username=Srikar24&layout=compact&langs_count=20" alt="Srikar's wakatime" />
