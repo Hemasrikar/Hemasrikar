@@ -180,6 +180,7 @@
  <a href="https://www.instagram.com/srikar.24/"><img src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" width="40"></a>
  <a href="https://www.linkedin.com/in/hema-srikar-ankem-b7642a214/"><img src="https://image.flaticon.com/icons/svg/2111/2111465.svg" width="40"></a>
 </p>
+<h4 align="center">I am a friendly guy 😅 you can connect with me on social media, I would love to have you in my life. </h4>
 <!---
 Sriker24/Sriker24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
