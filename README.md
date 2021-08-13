@@ -131,7 +131,7 @@
     <td width="80">
         <a href="https://postman.com" target="_blank" title ="Postman"> <img
             src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60"
-            height="50" /> </a>
+            height="45" /> </a>
     </td>
     <td width="80">
         <a href="https://www.python.org" target="_blank" title ="Python"> <img
