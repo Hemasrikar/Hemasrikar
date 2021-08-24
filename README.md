@@ -170,9 +170,9 @@
 
 </br>
 
-<div align=center>
+<!--<div align=center>
  <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Sriker24&theme=onedark&column=8" alt="Srikar's Trophies" />
-</div>
+</div> -->
 
 
 
