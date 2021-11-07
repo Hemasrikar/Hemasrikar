@@ -182,7 +182,7 @@
 <p align='center'>
  <a href="https://twitter.com/Srikar0369"><img src="https://image.flaticon.com/icons/svg/2111/2111703.svg" width="40"></a>
  <a href="https://www.instagram.com/srikar.24/"><img src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" width="40"></a>
- <a href="https://www.linkedin.com/in/hemasrikar/"><img src="https://image.flaticon.com/icons/svg/2111/2111465.svg" width="40"></a>
+ <a href="https://www.linkedin.com/in/hemasrikar/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"></a>
 </p>
 <h4 align="center">I am a friendly guy 😅 you can connect with me on social media, I would love to have you in my life. </h4>
 <!---
