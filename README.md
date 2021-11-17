@@ -182,7 +182,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align='center'>
- <a href="https://twitter.com/Srikar0369"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png"  alt="Twitter" width="50"></a>
+ <a href="https://twitter.com/Srikar0369"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png"  alt="Twitter" width="45"></a>
  <a href="https://www.linkedin.com/in/hemasrikar/"><img src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png"  alt="linkedin" width="40"></a>
 </p>
 <h4 align="center">I am a friendly guy 😅 you can connect with me on social media, I would love to have you in my life. </h4>
