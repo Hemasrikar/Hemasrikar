@@ -133,7 +133,7 @@
     </td>
     <td width="80">
         <a href="https://postman.com" target="_blank" title ="Postman"> <img
-            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55"
+            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50"
             height="45" /> </a>
     </td>
     <td width="80">
