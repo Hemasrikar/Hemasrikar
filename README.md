@@ -7,7 +7,7 @@
 
 <h2 align='center'><i>Activity Graph 📈</i></h2>
 <p align="center">
- <img src="https://activity-graph.herokuapp.com/graph?username=Sriker24&theme=react-dark&area=true&hide_border=true" width="100%">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Hemasrikar&theme=react-dark&area=true&hide_border=true" width="100%">
 </p>
 <h2 align='center'><i>Github Stats & Languages Used</i></h2>
 
@@ -181,11 +181,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p>
- <a href="https://github.com/Hemasrikar" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
- 
- <a href="https://twitter.com/Srikar_ankem" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
- 
- <a href="https://www.linkedin.com/in/hemasrikar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+ <a href="https://github.com/Hemasrikar" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Srikar_ankem" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/hemasrikar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 <h4 align="center">I am a friendly guy 😊, I would love to connect with you. </h4>
 
