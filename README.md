@@ -20,21 +20,18 @@
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Sriker24&show_icons=true&theme=vue-dark&include_all_commits=true"/>
  </a>
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <h2 align='left'><i>Languages and Tools:</i></h2>
 <table width="100">
 <tr>
