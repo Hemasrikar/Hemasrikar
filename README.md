@@ -1,5 +1,5 @@
 <!--<img src="https://i.imgur.com/H9cYi4c.jpg">-->
-<h1 align = "center"> Hello! <img src="https://github.com/Sriker24/Sriker24/blob/main/wave.gif" width="30px">, I'm Srikar </h1>
+<h1 align = "center"> Hello! <img src="https://github.com/Hemasrikar/Sriker24/blob/main/wave.gif" width="30px">, I'm Srikar </h1>
 <h3 align = "center"> Aerospace Engineer from IIT Madras </h3>
 <h4 align = "center"> Just another home sapiens living on this rock 🌍 floating in the space </h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sriker24&label=Profile%20views&color=129e00&style=plastic" /> </p>
