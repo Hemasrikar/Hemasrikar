@@ -13,7 +13,7 @@
 
 
 <a>
-    <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/wakatime?username=@Srikar&theme=vue-dark" alt="Srikar's wakatime" />
+    <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/wakatime?username=@Hemasrikar&theme=vue-dark" alt="Srikar's wakatime" />
 </a>
 
 <a>
@@ -171,6 +171,7 @@
 
 </br>
 
+<!----
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
@@ -188,7 +189,7 @@
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
 </p>
 
-
+--->
 
 <!--<div align=center>
  <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Sriker24&theme=onedark&column=8" alt="Srikar's Trophies" />
