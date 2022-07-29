@@ -13,11 +13,11 @@
 
 
 <a>
-    <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/wakatime?username=@Hemasrikar&theme=vue-dark" alt="Srikar's wakatime" />
+    <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/wakatime?username=@Srikar&theme=vue-dark" alt="Srikar's wakatime" />
 </a>
 
 <a>
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Sriker24&show_icons=true&theme=vue-dark&include_all_commits=true"/>
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Hemasrikar&show_icons=true&theme=vue-dark&include_all_commits=true"/>
  </a>
 
 <br>
