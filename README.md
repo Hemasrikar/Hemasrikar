@@ -1,5 +1,5 @@
 <!--<img src="https://i.imgur.com/H9cYi4c.jpg">-->
-<h1 align = "center"> Hello! <img src="https://github.com/Hemasrikar/Sriker24/blob/main/wave.gif" width="30px">, I'm Srikar </h1>
+<h1 align = "center"> Hello! <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Resources/wave.gif" width="30px">, I'm Srikar </h1>
 <h3 align = "center"> Aerospace Engineer from IIT Madras </h3>
 <h4 align = "center"> Just another home sapiens living on this rock 🌍 floating in the space </h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sriker24&label=Profile%20views&color=129e00&style=plastic" /> </p>
@@ -238,7 +238,8 @@
 
 <h3 align="center">Find me here:</h3>
 <p align="center">
- <a href="https://github.com/Hemasrikar" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Srikar_ankem" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/hemasrikar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="https://github.com/Hemasrikar" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Srikar_ankem" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+ <a href="https://www.linkedin.com/in/hemasrikar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.reddit.com/user/srikar_24" target="_blank"><img alt="Reddit" src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Resources/Reddit.png?&style=for-the-badge&logo=REDDIT&logoColor=white" /></a>
 </p>
-<em> <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/giphy.gif" width="50"> Human Connection is the key to personal and career Success. I love connecting with people, So feel free to say <b> Hi!</b> </em>
+<em> <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Resources/giphy.gif" width="50"> Human Connection is the key to personal and career Success. I love connecting with people, So feel free to say <b> Hi!</b> </em>
 
