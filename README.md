@@ -245,7 +245,12 @@
  <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Hemasrikar&theme=onedark&column=8" alt="Srikar's Trophies" />
 </div> -->
 
+Hobbies
 
+- Watching Anime 👾
+- Reading Books 📚
+- Psychology  🧠
+- Sleeping 😴
 
 
 
