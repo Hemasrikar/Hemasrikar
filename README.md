@@ -186,11 +186,11 @@
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
  <a href="https://www.python.org/">
-    <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Icons/languages/python%403x.png" alt="Python" width="140" height="40">
+    <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Icons/languages/python%403x.png" alt="Python" width="120" height="40">
  </a> 
  
  <a href="https://www.r-project.org/">
-    <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Icons/languages/r%403x.png" alt="R" width="140" height="40">
+    <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Icons/languages/r%403x.png" alt="R" width="110" height="35">
  </a> 
  
  <a href="https://www.javatpoint.com/javascript-tutorial">
