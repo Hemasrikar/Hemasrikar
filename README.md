@@ -183,36 +183,36 @@
  <a href="https://www.python.org/">
     <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Icons/languages/python%403x.png" alt="Python" width="120" hight="50">
  </a>  
- 
+ <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Icons/languages/html%403x.png" alt="HTML5" width="120" hight="50">
+</a> 
+ <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Icons/languages/css3%403x.png" alt="CSS" width="120" hight="50">
+</a> 
  <a href="https://ai.google/">
-    <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Icons/misc/ai%402x.png" alt="AI" width="120" hight="50">
+    <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Icons/misc/ai%403x.png" alt="AI" width="90" hight="25">
  </a> 
- 
+ <br>
  <a href="https://www.gnu.org/software/bash/">
     <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Icons/tools/bash%403x.png" alt="Bash" width="120" hight="50">
  </a> 
-
- 
  <a href="https://code.visualstudio.com/">
     <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Icons/tools/visualstudio_code%403x.png" alt="Visualtudio_Code" width="120" hight="50">
 </a> 
- 
 <a href="https://www.docker.com/">
     <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Icons/tools/docker%403x.png" alt="Docker" width="120" hight="50">
 </a> 
-
 <a href="https://www.jetbrains.com/pycharm/">
     <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Icons/tools/jetbrains_pycharm%403x.png" alt="Pycharm" width="120" hight="50">
 </a> 
-
-<a href="https://git-scm.com/">
+<!--<a href="https://git-scm.com/">
     <img src="help/badge1.svg" alt="Git" width="120" hight="50">
-</a> 
-
+</a> -->
 <a href="https://docs.microsoft.com/en-us/powershell/">
     <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Icons/tools/powershell%403x.png" alt="PowerShell" width="120" hight="50">
 </a> 
-
+ 
+ 
 
 
 
