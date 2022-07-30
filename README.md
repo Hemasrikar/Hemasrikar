@@ -190,7 +190,7 @@
  </a> 
  
  <a href="https://www.r-project.org/">
-    <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Icons/languages/r%403x.png" alt="R" width="110" height="38">
+    <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Icons/languages/r%403x.png" alt="R" width="110" height="40">
  </a> 
  
  <a href="https://www.javatpoint.com/javascript-tutorial">
