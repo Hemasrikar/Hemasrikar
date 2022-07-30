@@ -247,7 +247,7 @@
 
 Hobbies
 
-- Watching Anime <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Resources/kyubey.gif" />
+- <b> Watching Anime <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Resources/kyubey.gif" /> </b>
 - Reading Books 📚
 - Psychology  🧠
 - Sleeping 😴
