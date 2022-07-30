@@ -216,7 +216,7 @@
  </a> 
  
  <a href="https://code.visualstudio.com/">
-    <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Icons/tools/visualstudio_code%403x.png" alt="Visualtudio_Code" width="170" height="40">
+    <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Icons/tools/visualstudio_code%403x.png" alt="Visualtudio_Code" width="180" height="40">
 </a> 
  
 <a href="https://www.docker.com/">
