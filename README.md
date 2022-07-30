@@ -247,10 +247,10 @@
 
 Hobbies
 
-- <b> Watching Anime <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Resources/kyubey.gif" /> </b>
-- Reading Books 📚
-- Psychology  🧠
-- Sleeping 😴
+- <b> Watching Anime <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Resources/kyubey.gif" width="90" height="35"/> </b>
+- <b> Reading Books </b> 📚
+- <b> Psychology </b> 🧠
+- <b> Sleeping </b>😴
 
 
 
