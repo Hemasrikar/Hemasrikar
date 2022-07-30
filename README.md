@@ -184,6 +184,14 @@
     <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Icons/languages/python%403x.png" alt="Python" width="140" height="40">
  </a> 
  
+ <a href="https://www.r-project.org/">
+    <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Icons/languages/r%403x.png" alt="R" width="140" height="40">
+ </a> 
+ 
+ <a href="https://www.javatpoint.com/javascript-tutorial">
+    <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Icons/languages/js%403x.png" alt="JavaScript" width="140" height="40">
+ </a> 
+ 
  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Icons/languages/html%403x.png" alt="HTML5" width="120" height="40">
 </a> 
