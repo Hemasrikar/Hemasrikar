@@ -31,9 +31,13 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 <h2 align='left'><i>Languages and Tools:</i></h2>
-<table width="100">
+<!--<table width="100">
 <tr>
     <td width="80">
         <a href="https://developer.android.com/studio" target="_blank" title ="android studio"> <img
@@ -167,7 +171,7 @@
                 alt="XML" width="60" height="50" /> </a>
     </td>
 </tr>
-</table>
+</table>-->
 
 </br>
 
@@ -175,19 +179,44 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<!--<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
-</p> -->
+
+ <a href="https://www.python.org/">
+    <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Icons/languages/python%403x.png" alt="Python" width="120" hight="50">
+ </a>  
+ 
+ <a href="https://ai.google/">
+    <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Icons/misc/ai%402x.png" alt="AI" width="120" hight="50">
+ </a> 
+ 
+ <a href="https://www.gnu.org/software/bash/">
+    <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Icons/tools/bash%403x.png" alt="Bash" width="120" hight="50">
+ </a> 
+
+ 
+ <a href="https://code.visualstudio.com/">
+    <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Icons/tools/visualstudio_code%403x.png" alt="Visualtudio_Code" width="120" hight="50">
+</a> 
+ 
+<a href="https://www.docker.com/">
+    <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Icons/tools/docker%403x.png" alt="Docker" width="120" hight="50">
+</a> 
+
+<a href="https://www.jetbrains.com/pycharm/">
+    <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Icons/tools/jetbrains_pycharm%403x.png" alt="Pycharm" width="120" hight="50">
+</a> 
+
+<a href="https://git-scm.com/">
+    <img src="help/badge1.svg" alt="Git" width="120" hight="50">
+</a> 
+
+<a href="https://docs.microsoft.com/en-us/powershell/">
+    <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Icons/tools/powershell%403x.png" alt="PowerShell" width="120" hight="50">
+</a> 
+
+
+
+
+</p>
 
 <!--<div align=center>
  <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Sriker24&theme=onedark&column=8" alt="Srikar's Trophies" />
