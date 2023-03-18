@@ -4,10 +4,10 @@
 <h4 align = "center"> Just another home sapiens living on this rock 🌍 floating in the space </h4>
 <hr>
 
-<h2 align='center'><i>Activity Graph 📈</i></h2>
+<!--<h2 align='center'><i>Activity Graph 📈</i></h2>
 <p align="center">
  <img src="https://activity-graph.herokuapp.com/graph?username=Hemasrikar&theme=react-dark&area=true&hide_border=true" width="100%">
-</p>
+</p>-->
 <h2 align='center'><i>Github Stats & Languages Used</i></h2>
 
 
