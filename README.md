@@ -2,6 +2,10 @@
 <h1 align = "center"> Hello! <img src="https://github.com/Hemasrikar/Hemasrikar/blob/main/Resources/wave.gif" width="30px">, I'm Srikar </h1>
 <h3 align = "center"> Aerospace Engineer from IIT Madras </h3>
 <h4 align = "center"> Just another home sapiens living on this rock 🌍 floating in the space </h4>
+
+<a href="https://wakatime.com/@31e9137f-cc1c-46d1-81a0-6b2c3d294754"><img src="https://wakatime.com/badge/user/31e9137f-cc1c-46d1-81a0-6b2c3d294754.svg" alt="Total time coded since Jul 24 2021" />
+</a>
+
 <hr>
 
 <!--<h2 align='center'><i>Activity Graph 📈</i></h2>
