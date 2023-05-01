@@ -12,7 +12,7 @@
 
 
 <a>
-    <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/wakatime?username=Srikar&theme=vue-dark" alt="Srikar's wakatime" />
+    <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/wakatime?username=@Srikar&theme=vue-dark" alt="Srikar's wakatime" />
 </a>
 
 <a>
